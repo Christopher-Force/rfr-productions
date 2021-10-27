@@ -126,7 +126,7 @@ export default function Hero2() {
                 <span className="block text-red-500 xl:inline">with anyone.</span>
               </h1>
               <p className="mt-3 text-base text-gray-300 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Whether you are an aspiring vocalist, amateur filmmaker, or an enterprise, there's a goldmine for your goals.
+                Whether you're an aspiring vocalist, amateur filmmaker, or an enterprise, there's a goldmine for your goals.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
@@ -154,7 +154,7 @@ export default function Hero2() {
         <img
           className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full filter grayscale-60"
           src={drums}
-          alt=""
+          alt="drums"
         />
       </div>
     </div>

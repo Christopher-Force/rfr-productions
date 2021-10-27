@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
-import Footer from '../components/Footer';
+import Footer2 from '../components/Footer2';
 import Team from '../components/Team';
 import './App.css';
 import PriceCards from './PriceCards';
@@ -19,7 +19,7 @@ class App extends Component {
         <PriceCards />
         <Team />
         <LearnMore />
-        <Footer />
+        <Footer2 />
       </>
     )
   }

@@ -68,7 +68,7 @@ const plans = [
 
 const PriceCards = () => {
     return (
-        <div className='px-6 py-12'>
+        <div className='bg-gray-200 px-6 py-12'>
             <div className="grid xl:grid-cols-4 lg:grid-cols-2 md:grid-cols-2 mx-0">
                 {plans.map(plan => (
                     <div className="w-full max-w-md mx-auto">

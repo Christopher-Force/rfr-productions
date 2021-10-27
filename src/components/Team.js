@@ -24,20 +24,20 @@ const Team = () => {
                 into the exotic terrain.
                 </p>
                 <p className="text-center text-md text-gray-500 dark:text-gray-400  py-4 font-light">
-                Force founded his passion for music early on in 2005 and began collecting his signature studio in late 2014. 
+                Force founded his passion for music early on in 2006 and began collecting his signature studio in late 2014. 
                 His Bigsby modified All American 2018 Telecaster, Roland Electronic Drum Kit, and Ableton Push 2 provide him with 
                 a killer workflow to incorporate elements that are familiar, but unheard.
                 </p>
             </div>
             <div className="pt-8 flex border-t border-gray-200 w-44 mx-auto text-gray-500 items-center justify-between">
-                <a href="#">
+                <a href="https://www.facebook.com/OfficialChristopherForce" target="_blank" rel="noreferrer noopener" >
                     <svg width="30" height="30" fill="currentColor" className="text-xl hover:text-gray-800 dark:hover:text-white transition-colors 
                     duration-200" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
                         <path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z">
                         </path>
                     </svg>
                 </a>
-                <a href="#">
+                <a href="https://twitter.com/runforcerun" target="_blank" rel="noreferrer noopener">
                     <svg width="30" height="30" fill="currentColor" className="text-xl hover:text-gray-800 dark:hover:text-white transition-colors 
                     duration-200" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
                         <path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 
@@ -46,7 +46,7 @@ const Team = () => {
                         </path>
                     </svg>
                 </a>
-                <a href="#">
+                <a href="https://github.com/Christopher-Force" target="_blank" rel="noreferrer noopener">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" className="text-xl hover:text-gray-800 dark:hover:text-white 
                     transition-colors duration-200" viewBox="0 0 1792 1792">
                         <path d="M896 128q209 0 385.5 103t279.5 279.5 103 385.5q0 251-146.5 451.5t-378.5 277.5q-27 5-40-7t-13-30q0-3 .5-76.5t.5-134.5q0-97-52-142 57-6 
@@ -58,7 +58,7 @@ const Team = () => {
                         </path>
                     </svg>
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/christopher-force-dev/" target="_blank" rel="noreferrer noopener">
                     <svg width="30" height="30" fill="currentColor" className="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200" 
                     viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
                         <path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 
@@ -67,7 +67,7 @@ const Team = () => {
                         </path>
                     </svg>
                 </a>
-                <a href="#">
+                {/* <a href="#" target="_blank" rel="noreferrer noopener">
                     <svg width="30" height="30" fill="currentColor" className="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200" 
                     viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
                         <path d="M1551 1476q15-6 26-3t11 17.5-15 33.5q-13 16-44 43.5t-95.5 68-141 74-188 58-229.5 24.5q-119 0-238-31t-209-76.5-172.5-104-132.5-105-84-87.5q-8-9-10-16.5t1-12 
@@ -78,7 +78,7 @@ const Team = () => {
                         21q0 86 70 133 66 44 139 22 84-25 114-123 14-45 14-101v-162q-59 2-111 12t-106.5 33.5-87 71-32.5 114.5z">
                         </path>
                     </svg>
-                </a>
+                </a> */}
             </div>
         </div>
     )
