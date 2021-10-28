@@ -5,6 +5,7 @@ import Footer2 from '../components/Footer2';
 import Team from '../components/Team';
 import './App.css';
 import PriceCards from './PriceCards';
+import Email from '../components/Email';
 // import Subscribe from '../components/LearnMore';
 import LearnMore from '../components/LearnMore';
 import Hero2 from '../components/Hero2';

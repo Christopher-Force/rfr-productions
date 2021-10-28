@@ -40,24 +40,28 @@ const Footer2 = () => {
                     <div className="mt-6 lg:mt-0 lg:flex-1">
                         <div className="grid grid-cols-3 gap-6 sm:grid-cols-3 md:grid-cols-3 justify-items-center">
                             <div>
-                                <h3 className="text-gray-700 uppercase dark:text-white">About</h3>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Company</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">community</a>
+                                <h3 className="text-gray-700 uppercase dark:text-white">RFR Productions</h3>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Browse Library</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Pricing/Licenses</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Partner Program</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Merch</a>
                                 <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Careers</a>
                             </div>
 
                             <div>
-                                <h3 className="text-gray-700 uppercase dark:text-white">Blog</h3>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Tec</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Music</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Videos</a>
+                                <h3 className="text-gray-700 uppercase dark:text-white">Learn</h3>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Why RFR?</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Blog</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Terms of Use</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Privacy Policy</a>
                             </div>
 
                             <div>
-                                <h3 className="text-gray-700 uppercase dark:text-white">Products</h3>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Mega cloud</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Aperion UI</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Meraki UI</a>
+                                <h3 className="text-gray-700 uppercase dark:text-white">Help</h3>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Support</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">FAQ</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Help</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Contact</a>
                             </div>
 
                             <div>
