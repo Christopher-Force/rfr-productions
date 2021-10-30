@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rfr-productions/static/css/main.20c1c5f8.chunk.css",
-    "main.js": "/rfr-productions/static/js/main.0b8a7077.chunk.js",
-    "main.js.map": "/rfr-productions/static/js/main.0b8a7077.chunk.js.map",
+    "main.js": "/rfr-productions/static/js/main.a00232c6.chunk.js",
+    "main.js.map": "/rfr-productions/static/js/main.a00232c6.chunk.js.map",
     "runtime-main.js": "/rfr-productions/static/js/runtime-main.aacf50a1.js",
     "runtime-main.js.map": "/rfr-productions/static/js/runtime-main.aacf50a1.js.map",
     "static/js/2.20bf5f04.chunk.js": "/rfr-productions/static/js/2.20bf5f04.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.aacf50a1.js",
     "static/js/2.20bf5f04.chunk.js",
     "static/css/main.20c1c5f8.chunk.css",
-    "static/js/main.0b8a7077.chunk.js"
+    "static/js/main.a00232c6.chunk.js"
   ]
 }
