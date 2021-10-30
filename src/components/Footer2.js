@@ -40,7 +40,7 @@ const Footer2 = () => {
                     <div className="mt-6 lg:mt-0 lg:flex-1">
                         <div className="grid grid-cols-3 gap-6 sm:grid-cols-3 md:grid-cols-3 justify-items-center">
                             <div>
-                                <h3 className="text-gray-700 uppercase dark:text-white">RFR Productions</h3>
+                                <h3 className="text-gray-700 uppercase dark:text-white">RFR Prod.</h3>
                                 <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Browse Library</a>
                                 <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Pricing/Licenses</a>
                                 <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Partner Program</a>

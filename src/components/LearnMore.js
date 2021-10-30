@@ -18,7 +18,7 @@ const LearnMore = () => {
                         <div className="px-6 py-6 md:px-8 md:py-0">
                             <h2 className="text-lg font-bold text-gray-100 dark:text-white md:text-gray-100">Be Heard With The Latest <span className="text-red-500 dark:text-blue-400 md:text-red-500">Tracks</span></h2>
                             
-                            <p className="mt-2 text-sm text-gray-300 dark:text-gray-400 md:text-gray-400">Sign up to be updated with new additions, curated playlists, <br className="md:hidden"/> and the hottest upcoming talent.</p>
+                            <p className="mt-2 text-sm text-gray-300 dark:text-gray-400 md:text-gray-400">Sign up to be updated with new additions, curated playlists, and the hottest upcoming talent.</p>
                         </div>
                     </div>
 
