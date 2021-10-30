@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Christopher-Force/rfr-productions/static/css/main.56e86296.chunk.css",
-    "main.js": "/Christopher-Force/rfr-productions/static/js/main.0b8a7077.chunk.js",
-    "main.js.map": "/Christopher-Force/rfr-productions/static/js/main.0b8a7077.chunk.js.map",
-    "runtime-main.js": "/Christopher-Force/rfr-productions/static/js/runtime-main.ec338b15.js",
-    "runtime-main.js.map": "/Christopher-Force/rfr-productions/static/js/runtime-main.ec338b15.js.map",
-    "static/js/2.20bf5f04.chunk.js": "/Christopher-Force/rfr-productions/static/js/2.20bf5f04.chunk.js",
-    "static/js/2.20bf5f04.chunk.js.map": "/Christopher-Force/rfr-productions/static/js/2.20bf5f04.chunk.js.map",
-    "static/js/3.f3d552f1.chunk.js": "/Christopher-Force/rfr-productions/static/js/3.f3d552f1.chunk.js",
-    "static/js/3.f3d552f1.chunk.js.map": "/Christopher-Force/rfr-productions/static/js/3.f3d552f1.chunk.js.map",
-    "index.html": "/Christopher-Force/rfr-productions/index.html",
-    "static/css/main.56e86296.chunk.css.map": "/Christopher-Force/rfr-productions/static/css/main.56e86296.chunk.css.map",
-    "static/js/2.20bf5f04.chunk.js.LICENSE.txt": "/Christopher-Force/rfr-productions/static/js/2.20bf5f04.chunk.js.LICENSE.txt",
-    "static/media/chris.77b026a5.jpg": "/Christopher-Force/rfr-productions/static/media/chris.77b026a5.jpg",
-    "static/media/drums.7940e837.JPG": "/Christopher-Force/rfr-productions/static/media/drums.7940e837.JPG",
-    "static/media/index.css": "/Christopher-Force/rfr-productions/static/media/producing.4780e666.JPG",
-    "static/media/rfr-black.564a7ad6.png": "/Christopher-Force/rfr-productions/static/media/rfr-black.564a7ad6.png",
-    "static/media/rfr-white.a2a975a9.png": "/Christopher-Force/rfr-productions/static/media/rfr-white.a2a975a9.png"
+    "main.css": "/rfr-productions/static/css/main.20c1c5f8.chunk.css",
+    "main.js": "/rfr-productions/static/js/main.0b8a7077.chunk.js",
+    "main.js.map": "/rfr-productions/static/js/main.0b8a7077.chunk.js.map",
+    "runtime-main.js": "/rfr-productions/static/js/runtime-main.aacf50a1.js",
+    "runtime-main.js.map": "/rfr-productions/static/js/runtime-main.aacf50a1.js.map",
+    "static/js/2.20bf5f04.chunk.js": "/rfr-productions/static/js/2.20bf5f04.chunk.js",
+    "static/js/2.20bf5f04.chunk.js.map": "/rfr-productions/static/js/2.20bf5f04.chunk.js.map",
+    "static/js/3.f3d552f1.chunk.js": "/rfr-productions/static/js/3.f3d552f1.chunk.js",
+    "static/js/3.f3d552f1.chunk.js.map": "/rfr-productions/static/js/3.f3d552f1.chunk.js.map",
+    "index.html": "/rfr-productions/index.html",
+    "static/css/main.20c1c5f8.chunk.css.map": "/rfr-productions/static/css/main.20c1c5f8.chunk.css.map",
+    "static/js/2.20bf5f04.chunk.js.LICENSE.txt": "/rfr-productions/static/js/2.20bf5f04.chunk.js.LICENSE.txt",
+    "static/media/chris.77b026a5.jpg": "/rfr-productions/static/media/chris.77b026a5.jpg",
+    "static/media/drums.7940e837.JPG": "/rfr-productions/static/media/drums.7940e837.JPG",
+    "static/media/index.css": "/rfr-productions/static/media/producing.4780e666.JPG",
+    "static/media/rfr-black.564a7ad6.png": "/rfr-productions/static/media/rfr-black.564a7ad6.png",
+    "static/media/rfr-white.a2a975a9.png": "/rfr-productions/static/media/rfr-white.a2a975a9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec338b15.js",
+    "static/js/runtime-main.aacf50a1.js",
     "static/js/2.20bf5f04.chunk.js",
-    "static/css/main.56e86296.chunk.css",
+    "static/css/main.20c1c5f8.chunk.css",
     "static/js/main.0b8a7077.chunk.js"
   ]
 }
