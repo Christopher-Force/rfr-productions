@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/Christopher-Force/rfr-productions/raw/master/public/favicon.ico" width=25 /> RFR Productions Landing Page </h1> 
+<h1><img src="https://github.com/Christopher-Force/rfr-productions/raw/master/public/favicon.ico" width=25 /> RFR Productions [Landing Page Only]</h1> 
 <p>This repository contains the source code for the landing page design of RFR Productions, a passion project where I plan to sell licenses to my beats, instrumentals, and remixing rights of my published music. The primary purpose of this project is to showcase my taste in design and demonstrate my ability to utilize JavaScript for various features on the page.</p>
 <h2>Features</h2>
 <ul>
