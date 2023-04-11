@@ -17,8 +17,8 @@ https://github.com/Christopher-Force/rfr-productions/blob/master/src/components/
 <li>React.js</li>
 <li>HTML5</li>
 <li>CSS3</li>
-<li>JavaScript</li>
-<li>Tailwind</li>
+<li>JavaScript (ex:<a href="https://github.com/Christopher-Force/rfr-productions/blob/master/src/components/PriceCard.js"> Component: PriceCard.js</a>) </li>
+<li>Tailwind CSS</li>
 </ul>
 
 <h2>License</h2>
