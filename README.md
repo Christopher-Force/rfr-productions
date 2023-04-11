@@ -1,5 +1,3 @@
-https://github.com/Christopher-Force/rfr-productions/blob/master/src/components/PriceCard.js
-
 <h1>RFR Productions Landing Page</h1>
 <p>This repository contains the source code for the landing page design of RFR Productions, a passion project where I plan to sell licenses to my beats, instrumentals, and remixing rights of my published music. The primary purpose of this project is to showcase my taste in design and demonstrate my ability to utilize JavaScript for various features on the page.</p>
 <h2>Features</h2>
@@ -28,6 +26,6 @@ https://github.com/Christopher-Force/rfr-productions/blob/master/src/components/
 <ul>
 <li>Email: <a href="mailto:christopher@christopherforce.com" target="_new">Christopher@ChristopherForce.com</a></li>
 <li>Portfolio: <a href="https://christopherforce.com" target="_new">www.ChristopherForce.com</a></li>
-<li>GitHub: <a href="https://github.com/Christopher-Force" target="_new">@yourusername</a></li>
+<li>GitHub: <a href="https://github.com/Christopher-Force" target="_new">@Christopher-Force</a></li>
 
 </ul>
